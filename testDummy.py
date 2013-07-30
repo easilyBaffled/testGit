@@ -4,3 +4,5 @@ __author__ = 'lego90511'
     #this file came up red and a README file apeard
 #synced
 #add filename turned green
+#committed
+#pushed filename turned blue, that may have been at committed
